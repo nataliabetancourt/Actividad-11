@@ -1,0 +1,87 @@
+.createPublication{
+    align-items: center;
+    font-family: Poppins, sans-serif;
+    display:flex;
+    flex-direction: column;
+}
+
+.allPosts {
+    align-items: center;
+    font-family: Poppins, sans-serif;
+    display:flex;
+    flex-direction: column;
+}
+
+#username{
+    font-family: Poppins, sans-serif;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+    width: 25%;
+    height:30px;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: rgb(238, 238, 238);
+    border-color: lightgrey;
+}
+
+#publication {
+    font-family: Poppins, sans-serif;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    width: 25%;
+    height:60px;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: rgb(238, 238, 238);
+    border-color: lightgrey;
+}
+
+#postBtn {
+    font-family: Poppins, sans-serif;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    background-color: paleturquoise;
+    width: 25%;
+    height: 30px;
+    border-color: lightgrey;
+}
+
+.posts {
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+    width: 30%;
+    border-radius: 10px;
+    background-color: rgb(238, 238, 238);
+}
+
+.publicationPost {
+    margin-left: 0.8em;
+    margin-top: 1em;
+}
+
+.answerClass {
+    font-family: Poppins, sans-serif;
+    padding: 0.2em;
+    width: 65%;
+    margin-bottom: 0.5em;
+    margin-left: 0.5em;
+}
+
+.answerBtnClass {
+    font-family: Poppins, sans-serif;
+    width: 25%;
+    background-color: rgb(175, 141, 253);
+    border-color: lightgrey;
+}
+
+.usernameTxt {
+    font-size: small;
+    text-align: right; 
+}
+
+.answerPost {
+    padding: 0.5em;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
